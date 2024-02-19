@@ -10,4 +10,4 @@ and the fundamental and essential java skill sets and knowledge were presented i
 students so that they could easily interpret and understand them.
 
 Each java project should be self explanatory, the file name and comments should explain the
-premis of every project file.
+premise of every project file.
